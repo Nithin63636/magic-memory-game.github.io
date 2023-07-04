@@ -1,5 +1,5 @@
 # THIS APP IS AMAZING WORK  . CREDITS TO ME
-[APP]("../public/app.png")
+![alt-text](../public/app.png)
 
 ## Getting Started with Create React App
 
