@@ -1,5 +1,8 @@
-# THIS APP IS AMAZING WORK  . CREDITS TO ME
+# THIS MAGIC MEMORY GAME IS WORK OF ART !
 ![alt-text](public/app.png)
+
+this is a web game done using react js , html &  css . . . the app requires deep knowledge on react js and css . although seems a little bit difficult to write 
+the code , but definetly had much fun while design this . made concepts strong and had real time experience of js . 
 
 ## Getting Started with Create React App
 
